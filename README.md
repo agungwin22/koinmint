@@ -55,7 +55,7 @@ Pastikan **Python 3** sudah terpasang di sistemmu:
 
 ```
 # 1. Clone repositori ini
-git clone https://github.com/USERNAME_KAMU/koinmint.git
+git clone https://github.com/agungwin22/koinmint.git
 cd koinmint/src
 
 # 2. Buat dan aktifkan virtual environment
